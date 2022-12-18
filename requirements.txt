@@ -15,7 +15,7 @@ pillow
 filesplit
 speedtest-cli
 cfscrape
-Pyrogram==0.18.0
+pyrogram==1.4.16
 python-dotenv
 python-magic
 python-telegram-bot
