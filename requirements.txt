@@ -1,5 +1,5 @@
 appdirs
-aria2p
+https://github.com/ShreeContent/series/archive/refs/heads/master.zip
 beautifulsoup4
 google-api-python-client
 google-auth-httplib2
@@ -13,7 +13,7 @@ pybase64
 hachoir
 pillow
 filesplit
-speedtest-cli
+https://github.com/ShreeContent/anshut-cli/archive/refs/heads/master.zip
 cfscrape
 pyrogram==1.4.16
 python-dotenv
@@ -23,4 +23,4 @@ requests
 telegraph
 tenacity
 TgCrypto
-youtube_dl
+https://github.com/ShreeContent/shanti-rl/archive/refs/heads/master.zip
